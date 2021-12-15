@@ -1,5 +1,68 @@
 <h2>java-100ejercicios-udemy</h2><h4></h4>
-<h4>Descripción del proyecto: </h4><h3>Vamos a configurar el stack de tecnologías que vamos a utilizar de una forma simple y estándar para acelerar el desarrollo de los proyectos a realizar.   </h3>
+<h4>Descripción del proyecto: </h4><h6>
+Curso de iniciación en Java de una forma amena y dinámica, enseñando de la mejor forma que sé hacer, haciendo ejercicios.
+
+La versión que usaremos en este curso es Java SE (Standard Edition).
+
+El curso consta de 100 ejercicios prácticos (+50 ejercicios bonus) realizados en Java explicados y resueltos paso a paso, haremos desde ejercicios muy simples (pedir números, mostrar datos, etc) hasta ejercicios mas complejos (movimiento de una pieza de ajedrez) ayudándote a mejorar la lógica de programación para tus futuros proyectos.
+
+Este curso es altamente recomendable para aquellas personas que comiencen un curso de formación profesional DAM/DAW, empiecen la universidad o cualquier persona que quiera empezar de alguna manera a programar.
+
+Los ejercicios están divididos en las siguientes secciones:
+
+Básicos: aprenderemos los conceptos básicos como los tipos de variables, operadores, estructuras repetitivas o bucles, estructuras condicionales, etc.
+
+Funciones y métodos: aprenderemos como crear funciones y métodos útiles que podremos reutilizar durante el curso.
+
+Arrays o vectores: aprenderemos a crear, rellenar, recorrer estructuras de datos estáticas simples. Terminaremos esta sección con el juego del ahorcado.
+
+Arrays multidimensionales o matrices: aprenderemos a crear, rellenar, recorrer estructuras de datos estáticas multidimensionales. Terminaremos la sección haciendo el juego del buscaminas.
+
+Programación orientada a objetos o POO: aprenderemos los conceptos básicos sobre la programación orientada a objetos creando nuestras propias clases, veremos herencia, polimorfismo, etc. Haremos un aeropuerto que va a ir evolucionando durante las clases. Como ejercicio final, veremos un pequeño gestor de aeropuertos en consola.
+
+Arrays dinámicos (ArrayList): aprenderemos a crear, rellenar, recorrer estructuras de datos dinámicas. Usaremos la clase ArrayList de Java.
+
+Ficheros: aprenderemos como escribir y leer ficheros de texto, binarios y serializados.
+
+Expresiones regulares: aprenderemos como crear expresiones regulares.
+
+Interfaces gráficas (SWING): aprenderemos como crear aplicaciones gráficas con SWING de Java. En este caso, se dividen en ejercicios pero podría considerarse como un mini proyecto. Haremos un gestor de aeropuertos gráficos.
+
+Java + MySQL: aprenderemos como conectarnos a una base de datos MySQL y hacer operaciones de consulta, insertado, actualización y borrado de datos.
+
+JavaFX: aprenderemos como crear aplicaciones gráficas con JavaFX, la evolución de SWING. Haremos el mismo proyecto que hicimos con SWING, pero esta vez los datos los cogeremos de nuestra base de datos.
+
+Se ha agregado cuestionarios para repasar los conceptos en cada sección.
+
+Y no todo acaba aquí, aparte de estos ejercicios, también tenemos canal de Youtube donde puedes complementar aún más todos estos ejercicios.
+
+En mi web, también tienes disponibles manuales útiles para documentarte.
+
+Tienes los enlaces en mi perfil y también los comento en una clase.
+
+Todos los ejercicios realizados durante el curso, los puedes descargar y usar para comprobar soluciones o modificarlo a tu gusto.
+
+El curso esta realizado en Netbeans 8.2 pero esta adaptado para usar el nuevo Apache Netbeans.
+
+¡Te espero en el curso!
+
+What you’ll learn
+Conseguir una base en programación para futuros lenguajes.
+Trucos interesantes para programar
+Tener las nociones básicas de Java (variables, funciones, etc).
+Manejar estructuras de datos estáticas y dinámicas (arrays, matrices y arraylist).
+Aprender los conceptos sobre programacion orientado a objetos (polimorfismo, herencia, etc.).
+Escribir y leer ficheros de texto, binarios y serializados.
+Crear y manejar eventos en aplicaciones gráficas.
+Crear tus propias aplicaciones con Java.
+Are there any course requirements or prerequisites?
+Netbeans, en la sección de "Preparación del entorno", lo veremos con detalle.
+Java JDK 8, en la sección de "Preparación del entorno", lo veremos con detalle.
+No es necesario tener conocimientos de programación.
+Who this course is for:
+Estudiantes de 1º de ciclo formativo DAM/DAW.
+Estudiantes de 1º de carrera de informática.
+Cualquier persona que quiera iniciarse en programación.</h6>
 <br>
 <h2>Datos Generales</h2>
 <li>Autor: Emmanuel Nieto</li>
