@@ -1,5 +1,5 @@
 <h2>java-100ejercicios-udemy</h2><h4></h4>
-<h4>Descripción del proyecto: </h4><h3>
+<h4>Descripción del proyecto: </h4><h6>
 Curso de iniciación en Java de una forma amena y dinámica, enseñando de la mejor forma que sé hacer, haciendo ejercicios.
 
 La versión que usaremos en este curso es Java SE (Standard Edition).
@@ -62,7 +62,7 @@ No es necesario tener conocimientos de programación.
 Who this course is for:
 Estudiantes de 1º de ciclo formativo DAM/DAW.
 Estudiantes de 1º de carrera de informática.
-Cualquier persona que quiera iniciarse en programación.</h3>
+Cualquier persona que quiera iniciarse en programación.</h6>
 <br>
 <h2>Datos Generales</h2>
 <li>Autor: Emmanuel Nieto</li>
