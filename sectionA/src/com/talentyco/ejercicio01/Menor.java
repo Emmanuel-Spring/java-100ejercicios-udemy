@@ -24,12 +24,12 @@ public class Menor {
 
         if (num1 <= num2) {
             if ( num1 == num2 ) {
-                System.out.println("El número 1 es menor que el número 2");
+                System.out.println("Los números son iguales");
             } else {
-                System.out.println("El número 2 es menor que el número 1");
+                System.out.println("El número 1 es menor que el número 2");
             }
         } else {
-            System.out.println("Los números son iguales");
+            System.out.println("El número 2 es menor que el número 1");
         }
     }
 }
