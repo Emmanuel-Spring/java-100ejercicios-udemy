@@ -1,4 +1,4 @@
-package com.talentyco;
+package com.talentyco.ejercicio01;
 
 /**  Java Title: Ejercicio N° 04
  @author Emmanuel Nieto Muñoz
@@ -14,12 +14,5 @@ public class Main {
 
 
 
-
     }
 }
-/** 3 meses
- *  3 meses
- *  al final de este periodo evaluacion final
- *  Al final del meses se ajusta a sueldo de mercado 1.200.000
- *
- */

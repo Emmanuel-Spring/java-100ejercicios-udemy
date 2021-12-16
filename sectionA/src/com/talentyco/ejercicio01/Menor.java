@@ -5,7 +5,6 @@ import java.util.Scanner;
 /**  Java Title: Ejercicio N° 04
  @author Emmanuel Nieto Muñoz
  @version: 14/12/2021/1.0
- @see <a href = "https://www.udemy.com/course/aprende-java-con-100-ejercicios-practicos/learn/lecture/11037430#overview" />Ejercicio Número 01 </a>
 
  @param Pide 2 números por consola e indica cual es el menor de los 2 números,
         En caso de que sean iguales, también lo debes indicar.

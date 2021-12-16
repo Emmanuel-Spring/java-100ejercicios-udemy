@@ -3,8 +3,9 @@ package com.talentyco.ejercicio01;
 /**  Java Title: Ejercicio N° 01
   @author Emmanuel Nieto Muñoz
   @version: 14/12/2021/1.0
-  @see <a href = "https://www.udemy.com/course/aprende-java-con-100-ejercicios-practicos/learn/lecture/11037430#overview" />Ejercicio Número 01 </a>
-*/
+
+  @param
+ */
 
 public class Variables {
     public static void main(String[] args) {
